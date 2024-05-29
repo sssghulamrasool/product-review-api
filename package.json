@@ -1,0 +1,30 @@
+{
+  "name": "product-review-api",
+  "version": "1.0.0",
+  "description": "learn product with api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\t"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "monogdb",
+    "expres"
+  ],
+  "author": "ghulam rasool",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.2.0",
+    "http-errors": "^2.0.0",
+    "mongoose": "^8.4.0",
+    "morgan": "^1.10.0",
+    "winston": "^3.13.0"
+  }
+}
